@@ -1,0 +1,15 @@
+.tweet {
+    display: inline-block;
+    background-color: #EEEEEE;
+    margin: 1em;
+    width: 20%;
+}
+
+.great {
+    color: blue;
+}
+
+.fat {
+    color: red;
+    font-weight: bold;
+}
